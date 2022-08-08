@@ -1,5 +1,5 @@
-FROM fuhai/jpress-base:v1.4
-LABEL maintainer="Michael Yang<fuhai999@gmail.com>"
+FROM loroxxx/jpress-base:v1.4
+LABEL maintainer="yuanqiang.luo<luoyuanq233@gmail.com>"
 
 WORKDIR /opt/jpress
 
